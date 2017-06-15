@@ -1,0 +1,22 @@
+/******** FIRST SECTION *********/
+.navbar{
+    background-color:transparent !important;
+    border-color:transparent;
+    background-image:none;
+    box-shadow:none;  
+ }
+.first-section{
+	background: #ce7a4e; /* Old browsers */
+	background: -moz-linear-gradient(45deg, #ce7a4e 0%, #b88651 35%, #94a360 75%, #5bb78e 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg, #ce7a4e 0%,#b88651 35%,#94a360 75%,#5bb78e 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(45deg, #ce7a4e 0%,#b88651 35%,#94a360 75%,#5bb78e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ce7a4e', endColorstr='#5bb78e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	height: 600px;
+}
+.responsive{
+	width: 250px;
+	height: 70px;
+}
+hr{
+	width: 80%;
+}
