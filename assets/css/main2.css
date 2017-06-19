@@ -1,0 +1,14 @@
+.marco-foto {
+  min-height: 150px;
+  border: 2px solid black;
+  margin-top: 20px;
+}
+.marco-foto1 {
+  min-height: 150px;
+  border: 2px solid black;
+  margin-top: 100px;
+}
+img {
+  width: 100%;
+  margin-bottom: 30px;
+}
